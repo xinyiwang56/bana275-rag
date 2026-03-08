@@ -4,6 +4,7 @@
 A Retrieval-Augmented Generation (RAG) chatbot built on the `sci.med` subset of the 20 Newsgroups dataset. The system answers medical-domain questions by retrieving relevant document chunks from a ChromaDB vector store and generating grounded responses via OpenAI's `gpt-4o-mini`, with conversation memory and cross-encoder reranking.
 
 **Live Demo:** [Deployed via Gradio `share=True` on Google Colab]
+**Demo Video:**  [https://youtu.be/azMtMzTHYK8]
 
 ---
 
